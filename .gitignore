@@ -1,0 +1,4 @@
+FirstScala/.idea/*
+*.iml
+target
+FirstScala/out

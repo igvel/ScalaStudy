@@ -1,4 +1,11 @@
 FirstScala/.idea/*
 *.iml
+*.ipr
+*.iws
+*.jar
 target
 FirstScala/out
+*.class
+.project
+.settings
+.classpath

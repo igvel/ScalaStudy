@@ -14,5 +14,4 @@
  */
 def C = Seq(1, 2, 3)
 def Windows = 0
-def WAT = (C:\Windows)
-/* OK, we also need this */ (_)
+def WAT = (C:\Windows)  /* OK, we also need this */ (_)
